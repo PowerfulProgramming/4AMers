@@ -17,8 +17,8 @@
 ## As a pet owner, I:
 ### Register with the App as an owner.
    - Username
-   Password
-   Name
+   - Password
+   - Name
    Email
    Phone number
    Pet Profile (Many pets to one owner)
